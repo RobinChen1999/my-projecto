@@ -1,6 +1,9 @@
 # my-projecto
 The besto gamo ever mado.
 Features todo:
--World/level design
--3d Modeling
--Game mechanics
+-Landscape design
+-UI design
+-Kingdom builder
+
+Less important:
+-Replace 3d Modeling
